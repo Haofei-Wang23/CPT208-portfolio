@@ -28,7 +28,7 @@ const iterations = [
   'Added augmented reality functionality to enhance immersion',
 ];
 
-const screenshots = ['/images/图片13.png', '/images/图片14.png', '/images/图片15.png'];
+const screenshots = ['images/图片13.png', 'images/图片14.png', 'images/图片15.png'];
 
 export default function Section05() {
   const sectionRef = useRef<HTMLElement>(null);

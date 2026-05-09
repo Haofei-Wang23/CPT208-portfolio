@@ -18,9 +18,9 @@ const challenges = [
 const requirements = ['Location-triggered Interaction', 'Playful Narrative', 'Shareable Outcome'];
 
 const evidenceImages = [
-  { src: '/images/图片1.jpg', caption: 'Changmen monument stone' },
-  { src: '/images/图片2.jpg', caption: 'Tourist at the canal' },
-  { src: '/images/图片3.jpg', caption: 'Changmen gate tower' },
+  { src: 'images/图片1.jpg', caption: 'Changmen monument stone' },
+  { src: 'images/图片2.jpg', caption: 'Tourist at the canal' },
+  { src: 'images/图片3.jpg', caption: 'Changmen gate tower' },
 ];
 
 export default function Section02() {

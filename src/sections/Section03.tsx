@@ -8,14 +8,14 @@ import Card from './Card';
 gsap.registerPlugin(ScrollTrigger);
 
 const crazyEights = [
-  '/images/图片5.jpg',
-  '/images/图片6.jpg',
-  '/images/图片7.jpg',
-  '/images/图片8.jpg',
-  '/images/图片9.jpg',
-  '/images/图片10.jpg',
-  '/images/图片11.jpg',
-  '/images/图片12.jpg',
+  'images/图片5.jpg',
+  'images/图片6.jpg',
+  'images/图片7.jpg',
+  'images/图片8.jpg',
+  'images/图片9.jpg',
+  'images/图片10.jpg',
+  'images/图片11.jpg',
+  'images/图片12.jpg',
 ];
 
 export default function Section03() {
@@ -140,7 +140,7 @@ export default function Section03() {
                     SELECTED
                   </span>
                   <img
-                    src="/images/图片10.jpg"
+                    src="images/图片10.jpg"
                     alt="Selected design sketch"
                     className="w-full object-cover"
                     style={{ aspectRatio: '4/5' }}
